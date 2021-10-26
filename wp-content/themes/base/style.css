@@ -121,6 +121,7 @@ input[type=text], input[type=password], textarea, input[type=search] {
 input[type=text], input[type=search] {
 	width: 240px;
 	max-width: 90%;
+	display: none;
 }
 
 /* text area */
